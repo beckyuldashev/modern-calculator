@@ -4,4 +4,4 @@
 
 [VK - Beck](https://vk.com/beckyuldashev)
 
-![preview](./calculator.jpg"Превью проекта")
+![preview](./calculator.jpg "Превью проекта")
